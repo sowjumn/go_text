@@ -1,4 +1,4 @@
-#How to Run?
+# How to Run?
 
 cat texts/moby-dick.txt | go run main.go
 
